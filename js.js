@@ -1,0 +1,1 @@
+cosnt name = 10
